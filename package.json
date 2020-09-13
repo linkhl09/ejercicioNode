@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverMain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkhl09/ejercicioNode.git"
+  },
+  "keywords": [],
+  "author": {"name": "Linkhl", "email": "af.hernandezl@uniandes.edu.co"},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkhl09/ejercicioNode/issues"
+  },
+  "homepage": "https://github.com/linkhl09/ejercicioNode#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
